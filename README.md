@@ -92,3 +92,8 @@
   There are no duplicate items
   n_items will be > 0
 
+ Project Structure
+ ------------------
+    * Java Based Maven Project
+    * Requires JDK 1.8
+    * Search Class is the starter Object where we need to pass an array of objects
