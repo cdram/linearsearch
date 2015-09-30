@@ -1,4 +1,4 @@
-Search an array of sorted numbers
+Search an array of Objects
 ----------------------------------
  * items    : An array of sorted ints, with no duplicates
  * n_items  : Number of elements in the items array
